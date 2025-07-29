@@ -98,7 +98,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             <div className="flex items-center gap-1">
               <ModeToggle />
               <Link
-                href="https://github.com/tianyaxiang/NavSphere"
+                href="https://github.com/koltluo/NavSphere"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="访问 GitHub 仓库"
@@ -112,7 +112,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 </Button>
               </Link>
               <Link
-                href="https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg"
+                href="https://www.lyskjd.com/docs"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="查看帮助文档"
