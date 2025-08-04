@@ -944,6 +944,14 @@
               "description": "冶金、电力及工业驱动系统的全球供应商，由东芝与三菱电机合资成立。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295352471_l6e10rp27",
+              "title": "丹佛斯（Danfoss，丹麦）",
+              "href": "https://www.danfoss.com/",
+              "description": "制冷、空调及工业自动化领域的技术领导者，尤其在电机控制和能源管理方面。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
