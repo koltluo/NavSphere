@@ -880,6 +880,14 @@
               "description": "提供配电系统、智能控制及楼宇自动化解决方案，覆盖建筑、能源等领域。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295027846_02xbs9ski",
+              "title": "霍尼韦尔（Honeywell，美国）",
+              "href": "https://www.honeywell.com/",
+              "description": "工业自动化、过程控制及智能电网技术的全球供应商。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
