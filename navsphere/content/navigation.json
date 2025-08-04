@@ -824,7 +824,16 @@
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754294447311_qvixtid4l",
+              "title": "ABB",
+              "href": "https://www.abb.com",
+              "description": "总部: 瑞士/瑞典，全球领先的电力和自动化技术供应商，业务涵盖电气设备、工业自动化及机器人领域。",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "99b20f2b-15f5-4ffb-a010-86e098cd6e1a",
