@@ -856,6 +856,14 @@
               "description": "工业连接技术、自动化系统及新能源解决方案的全球供应商。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754294887031_5bd76vjuo",
+              "title": "富士电机/Fujitsu Electric",
+              "href": "https://www.fujielectric.com/",
+              "description": "业务涵盖电力电子、工业自动化及新能源设备，尤其在变频器和伺服系统领域领先。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
