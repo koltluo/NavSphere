@@ -952,6 +952,14 @@
               "description": "制冷、空调及工业自动化领域的技术领导者，尤其在电机控制和能源管理方面。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295392023_fntfcgr50",
+              "title": "日立（Hitachi，日本）",
+              "href": "https://www.hitachi.com/",
+              "description": "涵盖电力系统、工业设备及智能基础设施的多元化集团。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
