@@ -864,6 +864,14 @@
               "description": "业务涵盖电力电子、工业自动化及新能源设备，尤其在变频器和伺服系统领域领先。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754294931231_h4651jolc",
+              "title": "通用电气（GE，美国）",
+              "href": "https://www.ge.com/",
+              "description": "多元化工业集团，工业电气业务包括发电设备、输配电及数字工业解决方案。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
