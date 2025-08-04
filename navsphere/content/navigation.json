@@ -904,6 +904,14 @@
               "description": "低压电器、工业自动化及新能源设备供应商，产品覆盖断路器、变频器等。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295168574_93qaqi2m8",
+              "title": "三菱电机（Mitsubishi Electric，日本）",
+              "href": "https://www.mitsubishielectric.com/",
+              "description": "工业电机、自动化系统及电力设备的综合制造商。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
