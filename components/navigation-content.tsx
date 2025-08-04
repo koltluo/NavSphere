@@ -125,6 +125,20 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   <HelpCircle className="h-5 w-5" />
                 </Button>
               </Link>
+              <Link
+                href="mailto:info@nav8.top"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="给我们发邮件"
+              >
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="hover:bg-accent hover:text-accent-foreground"
+                >
+                  <Email className="h-5 w-5" />
+                </Button>
+              </Link>
               <Button
                 variant="ghost"
                 size="icon"
