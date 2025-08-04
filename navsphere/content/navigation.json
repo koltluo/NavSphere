@@ -977,7 +977,16 @@
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754295477927_ssu1uagdx",
+              "title": "伟创电气（VEICHI）",
+              "href": "https://www.veichi.com/",
+              "description": "工业自动化控制产品及系统解决方案供应商，专注于变频器、伺服系统等。",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
