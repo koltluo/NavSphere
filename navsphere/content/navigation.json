@@ -985,6 +985,14 @@
               "description": "工业自动化控制产品及系统解决方案供应商，专注于变频器、伺服系统等。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295512527_pf1q1whc7",
+              "title": "阳光电源（Sungrow）",
+              "href": "https://www.sungrowpower.com/",
+              "description": "光伏逆变器、储能系统及新能源解决方案的全球领先企业。",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
