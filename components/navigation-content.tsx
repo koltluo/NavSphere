@@ -136,7 +136,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <Email className="h-5 w-5" />
+                  <Mail className="h-5 w-5" />
                 </Button>
               </Link>
               <Button
