@@ -840,6 +840,14 @@
               "description": "提供工业自动化、电机控制及能源管理解决方案，旗下品牌包括 Control Techniques、Leroy-Somer 等。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754294577527_y5t166vz6",
+              "title": "Eaton",
+              "href": "https://www.eaton.com/",
+              "description": "专注于电力管理、智能设备及工业控制，产品覆盖断路器、变频器等。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
