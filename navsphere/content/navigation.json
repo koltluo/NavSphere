@@ -920,6 +920,14 @@
               "description": "专注于工业自动化与信息技术，提供智能制造解决方案。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295239078_t7xwv5sue",
+              "title": "施耐德电气（Schneider Electric，法国）",
+              "href": "https://www.schneider-electric.com/",
+              "description": "能源管理与自动化领域的全球领导者，产品覆盖工业控制、配电系统等。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
