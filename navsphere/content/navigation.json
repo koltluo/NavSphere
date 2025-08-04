@@ -825,6 +825,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "99b20f2b-15f5-4ffb-a010-86e098cd6e1a",
+          "title": "国产品牌",
+          "icon": "LayoutGrid",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
