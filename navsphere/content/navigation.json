@@ -817,7 +817,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "f6a41fa3-153b-4c25-8e8a-ac7d7c35b849",
+          "title": "国际品牌",
+          "icon": "LayoutGrid",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
