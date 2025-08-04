@@ -912,6 +912,14 @@
               "description": "工业电机、自动化系统及电力设备的综合制造商。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295205302_i0i3yqy1c",
+              "title": "罗克韦尔自动化（Rockwell Automation，美国）",
+              "href": "https://www.rockwellautomation.com/",
+              "description": "专注于工业自动化与信息技术，提供智能制造解决方案。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
