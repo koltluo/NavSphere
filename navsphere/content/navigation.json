@@ -896,6 +896,14 @@
               "description": "全球电气与智能建筑解决方案专家，产品包括开关插座、电缆管理系统等。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295118023_wgtkj64lr",
+              "title": "LS 产电（LS Electric，韩国）",
+              "href": "https://www.lselectric.com/",
+              "description": "低压电器、工业自动化及新能源设备供应商，产品覆盖断路器、变频器等。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
