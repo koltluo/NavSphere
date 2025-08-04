@@ -872,6 +872,14 @@
               "description": "多元化工业集团，工业电气业务包括发电设备、输配电及数字工业解决方案。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754294975599_y2cmxf1aj",
+              "title": "海格电气（Hager，德国）",
+              "href": "https://www.hager-electric.com/",
+              "description": "提供配电系统、智能控制及楼宇自动化解决方案，覆盖建筑、能源等领域。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
