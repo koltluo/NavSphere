@@ -888,6 +888,14 @@
               "description": "工业自动化、过程控制及智能电网技术的全球供应商。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295066022_spgow429z",
+              "title": "罗格朗（Legrand，法国）",
+              "href": "https://www.legrand.com/",
+              "description": "全球电气与智能建筑解决方案专家，产品包括开关插座、电缆管理系统等。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
