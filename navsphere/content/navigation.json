@@ -848,6 +848,14 @@
               "description": "专注于电力管理、智能设备及工业控制，产品覆盖断路器、变频器等。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754294718399_ilglw6xhh",
+              "title": "菲尼克斯电气（Phoenix Contact）",
+              "href": "https://www.phoenixcontact.com/",
+              "description": "工业连接技术、自动化系统及新能源解决方案的全球供应商。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
