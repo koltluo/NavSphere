@@ -928,6 +928,14 @@
               "description": "能源管理与自动化领域的全球领导者，产品覆盖工业控制、配电系统等。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295277807_04ipo2iyx",
+              "title": "西门子（Siemens，德国）",
+              "href": "https://www.siemens.com/",
+              "description": "电力、工业自动化及数字化解决方案的综合供应商，业务覆盖能源、交通等领域。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
