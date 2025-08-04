@@ -43,6 +43,22 @@ export default function RootLayout({
             `,
           }}
         />
+        {/* Google AdSense */}
+        {/* 加载AdSense核心脚本 */}
+        <Script
+  strategy="afterInteractive"
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4470609607748010"
+  crossOrigin="anonymous"
+        />
+       <Script
+    id="adsense-initialize"
+    strategy="afterInteractive"
+    dangerouslySetInnerHTML={{
+      __html: `
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      `,
+    }}
+     />
       </head>
       <body suppressHydrationWarning>
         <ThemeProvider
