@@ -936,6 +936,14 @@
               "description": "电力、工业自动化及数字化解决方案的综合供应商，业务覆盖能源、交通等领域。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295314718_o4nelxnpb",
+              "title": "东芝三菱电机工业系统（TMEIC，日本）",
+              "href": "https://www.tmeic.com/",
+              "description": "冶金、电力及工业驱动系统的全球供应商，由东芝与三菱电机合资成立。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
