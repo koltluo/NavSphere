@@ -960,6 +960,14 @@
               "description": "涵盖电力系统、工业设备及智能基础设施的多元化集团。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754295425983_z4o5lsrf7",
+              "title": "三星电机（Samsung Electro-Mechanics，韩国）",
+              "href": "https://www.samsung.com/",
+              "description": "电子元件、工业电气设备及新能源解决方案供应商。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
