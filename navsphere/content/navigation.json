@@ -269,6 +269,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754384315921",
+      "title": "成套输配电设备",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
