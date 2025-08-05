@@ -413,6 +413,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1754384550529",
+      "title": "消防电器",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
