@@ -444,7 +444,56 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_5_sunrise",
+          "title": "日出东方（Sunrise Electric）",
+          "href": "https://www.sunriseelectric.com.cn",
+          "description": "提供高低压开关柜、配电箱和成套输配电设备，广泛应用于工业和建筑领域。",
+          "icon": "https://favicon.im/www.sunriseelectric.com.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_6_shanghai_elec",
+          "title": "上海电气（Shanghai Electric）",
+          "href": "https://www.shanghai-electric.com",
+          "description": "国内领先的电力设备制造商，提供输配电设备、变压器和电力工程解决方案。",
+          "icon": "https://favicon.im/www.shanghai-electric.com",
+          "enabled": true
+        },
+        {
+          "id": "site_7_baogao",
+          "title": "宝高电气（Baogao Electric）",
+          "href": "http://www.baogao.com.cn",
+          "description": "专注于高低压开关柜、配电箱和输配电设备的研发与制造。",
+          "icon": "https://favicon.im/www.baogao.com.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_8_zhongtai",
+          "title": "中泰电气（Zhongtai Electric）",
+          "href": "http://www.zhongtaielec.com",
+          "description": "提供高低压开关柜、变压器和成套输配电设备，广泛应用于电力、工业和建筑领域。",
+          "icon": "https://favicon.im/www.zhongtaielec.com",
+          "enabled": true
+        },
+        {
+          "id": "site_9_jinguang",
+          "title": "金广电气（Jinguang Electric）",
+          "href": "http://www.jinguangelec.com",
+          "description": "专注于高低压开关柜、配电箱和输配电设备的研发与制造。",
+          "icon": "https://favicon.im/www.jinguangelec.com",
+          "enabled": true
+        },
+        {
+          "id": "site_10_hongyan",
+          "title": "鸿雁电气（Hongyan Electric）",
+          "href": "https://www.hongyan.com.cn",
+          "description": "提供高低压开关柜、配电箱和成套输配电设备，广泛应用于工业和建筑领域。",
+          "icon": "https://favicon.im/www.hongyan.com.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
