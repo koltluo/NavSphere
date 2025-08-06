@@ -456,7 +456,7 @@
         {
           "id": "site_8_judong_elec",
           "title": "巨东电气",
-          "href": "https://www.jotunele.com",
+          "href": "http://www.jotunele.com",
           "description": "生产各类40.5kV、24kV、12kV电压等级的固封极柱",
           "icon": "https://favicon.im/www.jotunele.com",
           "enabled": true
@@ -480,7 +480,7 @@
         {
           "id": "site_10_sgdq_elec",
           "title": "硕高电气",
-          "href": "https://www.sgdq.cc",
+          "href": "http://www.sgdq.cc",
           "description": "主要产品：预制舱，光伏并网柜，光伏并网箱，光伏汇流箱，箱变，充气柜，固体绝缘柜，环保柜，开闭所，环网柜，高低压成套设备，电缆分支箱等系列。",
           "icon": "https://favicon.im/www.sgdq.cc",
           "enabled": true
