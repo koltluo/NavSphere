@@ -14,6 +14,14 @@
           "enabled": true
         },
         {
+          "id": "zhanzhu-01",
+          "title": "赞助我们",
+          "href": "https://nav8.top/assets/images/%E6%94%B6%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.png",
+          "description": "如果您觉得本站对您的工作或学习有所帮助，欢迎通过打赏赞助支持我们，让这个平台走得更远！",
+          "icon": "https://nav8.top/assets/images/logos/%e8%b5%8f.png",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
