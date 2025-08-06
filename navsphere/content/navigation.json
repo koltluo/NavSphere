@@ -355,14 +355,6 @@
               "enabled": true
             },
             {
-              "id": "site_11_hwada",
-              "title": "华自科技（Hwada）",
-              "href": "http://www.dehnchina.com.cn",
-              "description": "专注于工业自动化、智能电力设备和能源管理系统的研发与制造。",
-              "icon": "https://favicon.im/www.dehnchina.com.cn",
-              "enabled": true
-            },
-            {
               "id": "site_12_hollysys",
               "title": "和利时（HollySys）",
               "href": "http://www.hollysys.com",
