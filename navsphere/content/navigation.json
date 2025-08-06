@@ -430,14 +430,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_5_sunrise",
-          "title": "日出东方（Sunrise Electric）",
-          "href": "https://www.sunriseelectric.com.cn",
-          "description": "提供高低压开关柜、配电箱和成套输配电设备，广泛应用于工业和建筑领域。",
-          "icon": "https://favicon.im/www.sunriseelectric.com.cn",
-          "enabled": true
-        },
-        {
           "id": "site_6_shanghai_elec",
           "title": "上海电气（Shanghai Electric）",
           "href": "https://www.shanghai-electric.com",
