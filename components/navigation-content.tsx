@@ -97,34 +97,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             </div>
             <div className="flex items-center gap-1">
               <ModeToggle />
-              <Link
-                href="https://nav8.top/assets/images/%E6%94%B6%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.png"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="赞助打赏"
-              >
-                <Button
-                  variant="ghost"
-                  size="icon"
-                  className="hover:bg-accent hover:text-accent-foreground"
-                >
-                  <Github className="h-5 w-5" />
-                </Button>
-              </Link>
-              <Link
-                href="mailto:info@nav8.top"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="给我发邮件"
-              >
-                <Button
-                  variant="ghost"
-                  size="icon"
-                  className="hover:bg-accent hover:text-accent-foreground"
-                >
-                  <Mail className="h-5 w-5" />
-                </Button>
-              </Link>
+              
               
               <Button
                 variant="ghost"
