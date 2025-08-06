@@ -438,14 +438,6 @@
           "enabled": true
         },
         {
-          "id": "site_9_jinguang",
-          "title": "金广电气（Jinguang Electric）",
-          "href": "http://www.jinguangelec.com",
-          "description": "专注于高低压开关柜、配电箱和输配电设备的研发与制造。",
-          "icon": "https://favicon.im/www.jinguangelec.com",
-          "enabled": true
-        },
-        {
           "id": "site_10_hongyan",
           "title": "鸿雁电气（Hongyan Electric）",
           "href": "https://www.hongyan.com.cn",
