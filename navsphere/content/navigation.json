@@ -454,6 +454,14 @@
           "enabled": true
         },
         {
+          "id": "site_8_judong_elec",
+          "title": "巨东电气",
+          "href": "https://www.jotunele.com",
+          "description": "生产各类40.5kV、24kV、12kV电压等级的固封极柱",
+          "icon": "https://favicon.im/www.jotunele.com",
+          "enabled": true
+        },
+        {
           "id": "site_10_hongyan",
           "title": "鸿雁电气（Hongyan Electric）",
           "href": "https://www.hongyan.com.cn",
