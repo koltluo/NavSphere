@@ -112,17 +112,17 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 </Button>
               </Link>
               <Link
-                href="https://www.lyskjd.com/docs"
+                href="mailto:info@nav8.top"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="查看帮助文档"
+                aria-label="给我发邮件"
               >
                 <Button
                   variant="ghost"
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <HelpCircle className="h-5 w-5" />
+                  <CiMail className="h-5 w-5" />
                 </Button>
               </Link>
               
