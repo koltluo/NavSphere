@@ -63,34 +63,34 @@
         },
         {
           "id": "1_6",
-          "title": "Linio(南美)",
-          "href": "https://sovrn.co/c7u897q",
-          "description": "Linio 成立于 2012 年，总部位于墨西哥，是拉丁美洲最大的 B2C 电商平台之一。由德国孵化器公司 Rocket Internet 投资，目前已在拉美地区多个国家开展业务，包括墨西哥、哥伦比亚、秘鲁、智利等。Linio 拥有超过 100 万个注册商家和 500 万注册用户。平台拥有 600 多万社交 “粉丝”，曾获得 2018 年最具创新性 App 称号，在拉美地区电商市场中占据重要地位。",
-          "icon": "https://favicon.im/www.linio.com",
+          "title": "eBay",
+          "href": "https://sovrn.co/s6ks5mb",
+          "description": "eBay 是一家全球知名的在线拍卖及购物平台，1995 年成立于美国。其核心模式是为个人和企业提供线上交易场所，用户可通过拍卖或一口价的方式买卖商品，涵盖品类广泛，从二手物品到全新商品、收藏品等均有涉及。",
+          "icon": "https://favicon.im/www.ebay.com",
           "enabled": true
         },
         {
           "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.ico",
+          "title": "Shein",
+          "href": "https://sovrn.co/ljsf81h",
+          "description": "Shein 是一家快时尚跨境电商公司,经营范围包括女装、男装、童装等服饰全品类，以及珠宝、化妆品、鞋、家居百货、电子产品等产品线。业务覆盖全球 150 多个国家和地区，主要面对欧美和中东等消费市场。",
+          "icon": "https://favicon.im/www.shein.com",
           "enabled": true
         },
         {
           "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
+          "title": "Wish",
+          "href": "https://sovrn.co/1bu677z",
+          "description": "Wish 是一个成立于 2011 年的跨境电商平台，由来自谷歌和雅虎的工程师 Peter Szulczewski 和 Danny Zhang 创立，总部位于美国硅谷，中国总部在上海静安区 CBD。Wish 主要面向欧美市场，致力于为全球消费者提供高性价比的商品。",
+          "icon": "https://favicon.im/www.wish.com",
           "enabled": true
         },
         {
           "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.png",
+          "title": "京东JD",
+          "href": "https://sovrn.co/0292ku7",
+          "description": "中国知名的自营式电商企业，涵盖 3C 数码、家电、日用百货等多种商品销售，同时发展出物流、金融等业务板块，是国内电商领域的重要参与者",
+          "icon": "https://favicon.im/www.jd.com",
           "enabled": true
         }
       ],
