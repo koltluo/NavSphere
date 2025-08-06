@@ -494,6 +494,14 @@
           "enabled": true
         },
         {
+          "id": "site_12_cnzlkj_elec",
+          "title": "正力电气",
+          "href": "http://www.cnzlkj.com/",
+          "description": "主要产品：六氟化硫负荷开关系列、真空负荷开关系列、真空断路器（高压真空断路器）系列、隔离开关系列、环网柜系列、共箱式充气柜、电缆分支箱系列、接地开关系列、PT手车等产品",
+          "icon": "https://favicon.im/www.cnzlkj.com",
+          "enabled": true
+        },
+        {
           "id": "site_10_hongyan",
           "title": "鸿雁电气（Hongyan Electric）",
           "href": "https://www.hongyan.com.cn",
