@@ -267,10 +267,162 @@
               "enabled": true
             },
             {
-              "id": "site_1754295512527_pf1q1whc7",
+              "id": "site_1_chint",
+              "title": "正泰集团（CHINT）",
+              "href": "https://www.chint.com",
+              "description": "国内领先的工业电气设备制造商，主要产品包括低压电器、自动化设备、新能源解决方案等。",
+              "icon": "https://favicon.im/www.chint.com",
+              "enabled": true
+            },
+            {
+              "id": "site_2_delixi",
+              "title": "德力西电气（Delixi Electric）",
+              "href": "https://www.delixi.com",
+              "description": "专注于低压电器、输配电设备和工业自动化解决方案，广泛应用于工业、建筑和基础设施领域。",
+              "icon": "https://favicon.im/www.delixi.com",
+              "enabled": true
+            },
+            {
+              "id": "site_3_inovance",
+              "title": "汇川技术（Inovance Technology）",
+              "href": "https://www.inovance.com",
+              "description": "国内领先的工业自动化解决方案提供商，产品包括伺服驱动器、PLC、变频器和工业机器人。",
+              "icon": "https://favicon.im/www.inovance.com",
+              "enabled": true
+            },
+            {
+              "id": "site_4_delta",
+              "title": "台达电子（Delta Electronics）",
+              "href": "https://www.deltaww.com",
+              "description": "提供电源管理、工业自动化和绿色能源解决方案，产品包括变频器、伺服驱动、PLC等。",
+              "icon": "https://favicon.im/www.deltaww.com",
+              "enabled": true
+            },
+            {
+              "id": "site_5_supcon",
+              "title": "中控技术（SUPCON）",
+              "href": "https://www.supcon.com",
+              "description": "专注于工业自动化和智能制造，主要产品包括DCS系统、SCADA系统、工业软件和智能仪表。",
+              "icon": "https://favicon.im/www.supcon.com",
+              "enabled": true
+            },
+            {
+              "id": "site_6_xjgc",
+              "title": "许继电气（XJ Electric）",
+              "href": "http://www.xjgc.com",
+              "description": "国内领先的电力设备制造商，产品涵盖输配电设备、工业自动化设备和新能源解决方案。",
+              "icon": "https://favicon.im/www.xjgc.com",
+              "enabled": true
+            },
+            {
+              "id": "site_7_nari",
+              "title": "南瑞集团（NARI Group）",
+              "href": "http://www.sgepri.sgcc.com.cn",
+              "description": "专注于电力系统自动化、智能电网和工业控制领域的领先企业。",
+              "icon": "https://favicon.im/www.sgepri.sgcc.com.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_8_clou",
+              "title": "科陆电子（Clou Electronics）",
+              "href": "http://www.szclou.com",
+              "description": "专注于智能电网、能源管理和工业自动化设备的研发与制造。",
+              "icon": "https://favicon.im/www.szclou.com",
+              "enabled": true
+            },
+            {
+              "id": "site_9_invt",
+              "title": "英威腾（Invt）",
+              "href": "http://www.invt.com.cn",
+              "description": "主要产品包括变频器、伺服驱动器、PLC和工业电源，广泛应用于工业自动化和新能源领域。",
+              "icon": "https://favicon.im/www.invt.com.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_10_hiconics",
+              "title": "合康新能（Hiconics）",
+              "href": "http://www.hiconics.com",
+              "description": "专注于变频器、伺服系统和工业自动化设备，业务涵盖工业、交通和新能源领域。",
+              "icon": "https://favicon.im/www.hiconics.com",
+              "enabled": true
+            },
+            {
+              "id": "site_11_hwada",
+              "title": "华自科技（Hwada）",
+              "href": "http://www.dehnchina.com.cn",
+              "description": "专注于工业自动化、智能电力设备和能源管理系统的研发与制造。",
+              "icon": "https://favicon.im/www.dehnchina.com.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_12_hollysys",
+              "title": "和利时（HollySys）",
+              "href": "http://www.hollysys.com",
+              "description": "专注于工业自动化和智能制造，主要产品包括DCS系统、PLC、工业软件和智能仪表。",
+              "icon": "https://favicon.im/www.hollysys.com",
+              "enabled": true
+            },
+            {
+              "id": "site_13_sifang",
+              "title": "四方继保（Sifang Electric）",
+              "href": "http://www.sifanggroup.com",
+              "description": "国内领先的电力自动化设备制造商，产品涵盖继电保护、自动化系统和智能电网解决方案。",
+              "icon": "https://favicon.im/www.sifanggroup.com",
+              "enabled": true
+            },
+            {
+              "id": "site_14_siasun",
+              "title": "新松机器人（Siasun Robot & Automation）",
+              "href": "http://www.siasun.com",
+              "description": "工业机器人及自动化系统的领先制造商，广泛应用于工业、医疗和服务领域。",
+              "icon": "https://favicon.im/www.siasun.com",
+              "enabled": true
+            },
+            {
+              "id": "site_15_estun",
+              "title": "埃斯顿自动化（Estun Automation）",
+              "href": "http://www.estun.com",
+              "description": "专注于工业机器人和智能装备的研发与制造，广泛应用于汽车、电子和金属加工领域。",
+              "icon": "https://favicon.im/www.estun.com",
+              "enabled": true
+            },
+            {
+              "id": "site_16_dahua",
+              "title": "大华股份（Dahua Technology）",
+              "href": "http://www.dahuatech.com",
+              "description": "在工业自动化和智能安防领域具有领先技术，产品包括工控机、工业摄像机和智能控制系统。",
+              "icon": "https://favicon.im/www.dahuatech.com",
+              "enabled": true
+            },
+            {
+              "id": "site_17_kstar",
+              "title": "科士达（Kstar）",
+              "href": "http://www.kstar.com.cn",
+              "description": "专注于工业电源、UPS设备和新能源解决方案的研发与制造。",
+              "icon": "https://favicon.im/www.kstar.com.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_18_eastups",
+              "title": "易事特（EATON）",
+              "href": "http://www.eastups.com",
+              "description": "提供工业电源、UPS设备和光伏发电系统，广泛应用于工业和新能源领域。",
+              "icon": "https://favicon.im/www.eastups.com",
+              "enabled": true
+            },
+            {
+              "id": "site_19_tbea",
+              "title": "特变电工（TBEA）",
+              "href": "http://www.tbea.com",
+              "description": "国内领先的输配电设备制造商，产品涵盖变压器、电缆和新能源设备。",
+              "icon": "https://favicon.im/www.tbea.com",
+              "enabled": true
+            },
+            {
+              "id": "site_20_sungrow",
               "title": "阳光电源（Sungrow）",
-              "href": "https://www.sungrowpower.com/",
-              "description": "光伏逆变器、储能系统及新能源解决方案的全球领先企业。",
+              "href": "http://www.sungrowpower.com",
+              "description": "光伏逆变器和储能系统的全球领先企业，广泛应用于工业和新能源领域。",
               "icon": "https://favicon.im/www.sungrowpower.com",
               "enabled": true
             }
