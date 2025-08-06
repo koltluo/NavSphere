@@ -446,6 +446,14 @@
           "enabled": true
         },
         {
+          "id": "site_7_shunmeng_elec",
+          "title": "吉徽电气",
+          "href": "https://www.jihuidl.com",
+          "description": "一家专业从事35kV及以下输变电设备研发、生产、销售、服务为一体的多元化企业。主要产品有固体绝缘环网柜、高压环网柜,高压电缆接头，冷缩电缆附件,箱式变电站,高压电缆分支箱,预装式插拔头电力电缆附件，SF6环网柜，DFW系列35kV电压等级及以下电缆分接箱、XGN系列环网柜、YBMP系列预装式箱式变电站、ZGS系列组合式变压器、SF6高压负荷开关、VS1系列户内高压真空断路器，ZW32-12型户外高压真空断路器，DFW系列欧式美式电缆分支箱不锈钢壳体等。",
+          "icon": "https://favicon.im/www.jihuidl.com",
+          "enabled": true
+        },
+        {
           "id": "site_10_hongyan",
           "title": "鸿雁电气（Hongyan Electric）",
           "href": "https://www.hongyan.com.cn",
