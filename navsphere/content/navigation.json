@@ -462,6 +462,38 @@
           "enabled": true
         },
         {
+          "id": "site_9_chwcdq_elec",
+          "title": "威创电气",
+          "href": "https://www.chwcdq.com",
+          "description": "主要产品有成套设备、户内户外高压真空断路器、高压计量箱/互感器 等系列产品",
+          "icon": "https://favicon.im/www.chwcdq.com",
+          "enabled": true
+        },
+        {
+          "id": "site_9_chwcdq_elec",
+          "title": "穆泰电气",
+          "href": "https://www.cnmutai.cn",
+          "description": "主要生产微断、塑壳断路器及漏电、框架断路器、双电源等十几个系列、几百种规格产品。",
+          "icon": "https://favicon.im/www.cnmutai.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_10_sgdq_elec",
+          "title": "硕高电气",
+          "href": "https://www.sgdq.cc",
+          "description": "主要产品：预制舱，光伏并网柜，光伏并网箱，光伏汇流箱，箱变，充气柜，固体绝缘柜，环保柜，开闭所，环网柜，高低压成套设备，电缆分支箱等系列。",
+          "icon": "https://favicon.im/www.sgdq.cc",
+          "enabled": true
+        },
+        {
+          "id": "site_11_chibodq_elec",
+          "title": "驰博电气",
+          "href": "http://www.chibodq.com/",
+          "description": "主要产品：箱式变电站、高压开关柜、低压开关柜，SF6环网柜、全绝缘充气柜、固体绝缘环网柜、电缆分支箱，不锈钢配电箱，电表箱，户内外高压真空断路器、各种高压负荷开关和高压隔离开关。",
+          "icon": "https://favicon.im/www.chibodq.com",
+          "enabled": true
+        },
+        {
           "id": "site_10_hongyan",
           "title": "鸿雁电气（Hongyan Electric）",
           "href": "https://www.hongyan.com.cn",
