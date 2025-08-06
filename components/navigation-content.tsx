@@ -108,7 +108,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <WechatPayFill className="h-5 w-5" />
+                  <Github className="h-5 w-5" />
                 </Button>
               </Link>
               <Link
@@ -122,7 +122,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <Mail className="h-5 w-5" />
+                  <HelpCircle className="h-5 w-5" />
                 </Button>
               </Link>
               
