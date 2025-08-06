@@ -438,14 +438,6 @@
           "enabled": true
         },
         {
-          "id": "site_8_zhongtai",
-          "title": "中泰电气（Zhongtai Electric）",
-          "href": "http://www.zhongtaielec.com",
-          "description": "提供高低压开关柜、变压器和成套输配电设备，广泛应用于电力、工业和建筑领域。",
-          "icon": "https://favicon.im/www.zhongtaielec.com",
-          "enabled": true
-        },
-        {
           "id": "site_9_jinguang",
           "title": "金广电气（Jinguang Electric）",
           "href": "http://www.jinguangelec.com",
