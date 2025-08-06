@@ -430,6 +430,22 @@
       "enabled": true,
       "items": [
         {
+          "id": "site_1_xd",
+          "title": "中国西电（XD）",
+          "href": "https://www.xdeec.com",
+          "description": "国内知名的输配电一次成套设备生产商，主导产品涵盖 110kV 及以上电压等级的高压开关、变压器等，具有参与国内外各种类型输配电工程技术服务项目的全套技术实力和技术优势。",
+          "icon": "https://favicon.im/www.xdeec.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_daqo",
+          "title": "大全集团（DAQO）",
+          "href": "https://www.daqo.com",
+          "description": "提供输配电设备等产品，在电气领域具有较高知名度，产品涵盖变压器、高低压成套设备等。",
+          "icon": "https://favicon.im/www.daqo.com",
+          "enabled": true
+        },
+        {
           "id": "site_6_shanghai_elec",
           "title": "上海电气（Shanghai Electric）",
           "href": "https://www.shanghai-electric.com",
