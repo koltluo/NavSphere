@@ -502,6 +502,14 @@
           "enabled": true
         },
         {
+          "id": "site_13_cnzzdq_elec",
+          "title": "中泽电气",
+          "href": "http://www.cnzzdq.com/",
+          "description": "主要产品：高低压成套设备，不锈钢电表箱， JP柜等各种配电箱、配电柜。",
+          "icon": "https://favicon.im/www.cnzzdq.com",
+          "enabled": true
+        },
+        {
           "id": "site_10_hongyan",
           "title": "鸿雁电气（Hongyan Electric）",
           "href": "https://www.hongyan.com.cn",
