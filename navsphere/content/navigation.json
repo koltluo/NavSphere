@@ -110,7 +110,7 @@
               "title": "ABB",
               "href": "https://www.abb.com",
               "description": "总部: 瑞士/瑞典，全球领先的电力和自动化技术供应商，业务涵盖电气设备、工业自动化及机器人领域。",
-              "icon": "/assets/img_1754386534381.png",
+              "icon": "https://favicon.im/www.abb.com",
               "enabled": true
             },
             {
@@ -118,7 +118,7 @@
               "title": "艾默生/Emerson",
               "href": "https://www.emerson.com/",
               "description": "提供工业自动化、电机控制及能源管理解决方案，旗下品牌包括 Control Techniques、Leroy-Somer 等。",
-              "icon": "",
+              "icon": "https://favicon.im/www.emerson.com",
               "enabled": true
             },
             {
@@ -126,7 +126,7 @@
               "title": "伊顿/Eaton",
               "href": "https://www.eaton.com/",
               "description": "专注于电力管理、智能设备及工业控制，产品覆盖断路器、变频器等。",
-              "icon": "",
+              "icon": "https://favicon.im/www.eaton.com",
               "enabled": true
             },
             {
@@ -134,7 +134,7 @@
               "title": "菲尼克斯电气（Phoenix Contact）",
               "href": "https://www.phoenixcontact.com/",
               "description": "工业连接技术、自动化系统及新能源解决方案的全球供应商。",
-              "icon": "",
+              "icon": "https://favicon.im/www.phoenixcontact.com",
               "enabled": true
             },
             {
@@ -142,7 +142,7 @@
               "title": "富士电机/Fujitsu Electric",
               "href": "https://www.fujielectric.com/",
               "description": "业务涵盖电力电子、工业自动化及新能源设备，尤其在变频器和伺服系统领域领先。",
-              "icon": "",
+              "icon": "https://favicon.im/www.fujielectric.com",
               "enabled": true
             },
             {
@@ -150,7 +150,7 @@
               "title": "通用电气（GE，美国）",
               "href": "https://www.ge.com/",
               "description": "多元化工业集团，工业电气业务包括发电设备、输配电及数字工业解决方案。",
-              "icon": "",
+              "icon": "https://favicon.im/www.ge.com",
               "enabled": true
             },
             {
@@ -158,7 +158,7 @@
               "title": "海格电气（Hager，德国）",
               "href": "https://www.hager-electric.com/",
               "description": "提供配电系统、智能控制及楼宇自动化解决方案，覆盖建筑、能源等领域。",
-              "icon": "",
+              "icon": "https://favicon.im/www.hager-electric.com",
               "enabled": true
             },
             {
@@ -166,7 +166,7 @@
               "title": "霍尼韦尔（Honeywell，美国）",
               "href": "https://www.honeywell.com/",
               "description": "工业自动化、过程控制及智能电网技术的全球供应商。",
-              "icon": "",
+              "icon": "https://favicon.im/www.honeywell.com",
               "enabled": true
             },
             {
@@ -174,7 +174,7 @@
               "title": "罗格朗（Legrand，法国）",
               "href": "https://www.legrand.com/",
               "description": "全球电气与智能建筑解决方案专家，产品包括开关插座、电缆管理系统等。",
-              "icon": "",
+              "icon": "https://favicon.im/www.legrand.com",
               "enabled": true
             },
             {
@@ -182,7 +182,7 @@
               "title": "LS 产电（LS Electric，韩国）",
               "href": "https://www.lselectric.com/",
               "description": "低压电器、工业自动化及新能源设备供应商，产品覆盖断路器、变频器等。",
-              "icon": "",
+              "icon": "https://favicon.im/www.lselectric.com",
               "enabled": true
             },
             {
@@ -190,7 +190,7 @@
               "title": "三菱电机（Mitsubishi Electric，日本）",
               "href": "https://www.mitsubishielectric.com/",
               "description": "工业电机、自动化系统及电力设备的综合制造商。",
-              "icon": "",
+              "icon": "https://favicon.im/www.mitsubishielectric.com",
               "enabled": true
             },
             {
@@ -198,7 +198,7 @@
               "title": "罗克韦尔自动化（Rockwell Automation，美国）",
               "href": "https://www.rockwellautomation.com/",
               "description": "专注于工业自动化与信息技术，提供智能制造解决方案。",
-              "icon": "",
+              "icon": "https://favicon.im/www.rockwellautomation.com",
               "enabled": true
             },
             {
@@ -206,7 +206,7 @@
               "title": "施耐德电气（Schneider Electric，法国）",
               "href": "https://www.schneider-electric.com/",
               "description": "能源管理与自动化领域的全球领导者，产品覆盖工业控制、配电系统等。",
-              "icon": "",
+              "icon": "https://favicon.im/www.schneider-electric.com",
               "enabled": true
             },
             {
@@ -214,7 +214,7 @@
               "title": "西门子（Siemens，德国）",
               "href": "https://www.siemens.com/",
               "description": "电力、工业自动化及数字化解决方案的综合供应商，业务覆盖能源、交通等领域。",
-              "icon": "",
+              "icon": "https://favicon.im/www.siemens.com",
               "enabled": true
             },
             {
@@ -222,7 +222,7 @@
               "title": "东芝三菱电机工业系统（TMEIC，日本）",
               "href": "https://www.tmeic.com/",
               "description": "冶金、电力及工业驱动系统的全球供应商，由东芝与三菱电机合资成立。",
-              "icon": "",
+              "icon": "https://favicon.im/www.tmeic.com",
               "enabled": true
             },
             {
@@ -230,7 +230,7 @@
               "title": "丹佛斯（Danfoss，丹麦）",
               "href": "https://www.danfoss.com/",
               "description": "制冷、空调及工业自动化领域的技术领导者，尤其在电机控制和能源管理方面。",
-              "icon": "",
+              "icon": "https://favicon.im/www.danfoss.com",
               "enabled": true
             },
             {
@@ -238,7 +238,7 @@
               "title": "日立（Hitachi，日本）",
               "href": "https://www.hitachi.com/",
               "description": "涵盖电力系统、工业设备及智能基础设施的多元化集团。",
-              "icon": "",
+              "icon": "https://favicon.im/www.hitachi.com",
               "enabled": true
             },
             {
@@ -246,7 +246,7 @@
               "title": "三星电机（Samsung Electro-Mechanics，韩国）",
               "href": "https://www.samsung.com/",
               "description": "电子元件、工业电气设备及新能源解决方案供应商。",
-              "icon": "",
+              "icon": "https://favicon.im/www.samsung.com",
               "enabled": true
             }
           ]
@@ -263,7 +263,7 @@
               "title": "伟创电气（VEICHI）",
               "href": "https://www.veichi.com/",
               "description": "工业自动化控制产品及系统解决方案供应商，专注于变频器、伺服系统等。",
-              "icon": "",
+              "icon": "https://favicon.im/www.veichi.com",
               "enabled": true
             },
             {
@@ -271,7 +271,7 @@
               "title": "阳光电源（Sungrow）",
               "href": "https://www.sungrowpower.com/",
               "description": "光伏逆变器、储能系统及新能源解决方案的全球领先企业。",
-              "icon": "",
+              "icon": "https://favicon.im/www.sungrowpower.com",
               "enabled": true
             }
           ]
