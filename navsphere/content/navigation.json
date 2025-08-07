@@ -800,6 +800,78 @@
           "enabled": true
         },
         {
+          "id": "site_3_djele",
+          "title": "鼎佳电器",
+          "href": "https://www.djele.cn",
+          "description": "主要产品：智能量测开关、物联网智能断路器、光伏并网专用断路器(分布式光伏开关)、智能剩余电流动作断路器(自动重合闸)、电子式塑壳断路器，电子式漏电断路器、塑料外壳式断路器、塑壳漏电断路器等",
+          "icon": "https://favicon.im/www.djele.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_4_sndele",
+          "title": "赛诺德电气",
+          "href": "http://www.sndele.cc/",
+          "description": "主要产品：小型断路器、塑壳式断路器、交流接触器、小型隔离开关、电涌保护器、模数化插座、照明配电箱、控制保护开关",
+          "icon": "https://favicon.im/www.sndele.cc",
+          "enabled": true
+        },
+        {
+          "id": "site_5_cabonel",
+          "title": "卡博纳电气",
+          "href": "http://www.cabonel.com/",
+          "description": "主要产品：小型断路器、电涌保护器、配电箱、塑料外壳式断路器、隔离开关、万能式断路器、双电源自动转换开、电力仪表、控制与保护开关、智能型电机软启动器、变频器、微机保护装置、户内高压、交流接触器",
+          "icon": "https://favicon.im/www.cabonel.com",
+          "enabled": true
+        },
+        {
+          "id": "site_7_snder",
+          "title": "青岛梅兰电气",
+          "href": "http://www.snder.com/",
+          "description": "主要产品：智能微型直流电源、高频开关电源、S-CPS 控制与保护开关电器、剩余电流式电气火灾监控探测器、智能型万能式断路器、双电源自动转换开关、负荷隔离开关、智能化电机软起动器、电动机保护器、变频调速器、小型断路器、塑壳式断路器、漏电断路器、交流接触器、电涌防雷保护器、住宅配电箱、多媒体信息箱、光纤入户箱、智能型电力仪表、开关柜智能操控装置、高压真空断路器、六氟化硫断路器、高压隔离开关、高压负荷开关、高低压成套开关设备",
+          "icon": "https://favicon.im/www.snder.com",
+          "enabled": true
+        },
+        {
+          "id": "site_8_demin",
+          "title": "德民电气",
+          "href": "http://www.demin.cc/",
+          "description": "主要产品：各种小型断路器、漏电断路器、塑壳断路器、万能式断路器，隔离开关、固体绝缘开关柜、配电柜、电缆分支箱、电表箱等",
+          "icon": "https://favicon.im/www.demin.cc",
+          "enabled": true
+        },
+        {
+          "id": "site_9_jsbg",
+          "title": "宝光电力",
+          "href": "http://www.jsbg.cc/",
+          "description": "主要产品：高压电气、低压电器、透明电表箱、控制与保护开关、电气火灾监控控测器、过欠压保护器、剩余电流保护断路器、微机综合保护装置",
+          "icon": "https://favicon.im/www.jsbg.cc",
+          "enabled": true
+        },
+        {
+          "id": "site_10_shkfdq",
+          "title": "凯帆电气",
+          "href": "http://www.shkfdq.com/",
+          "description": "主要产品：小型断路器、塑壳断路器、智能型万能式断路器、双电源自动切换开关、控制与保护开关、户内高压真空断路器、户外高压真空断路器、成套开关设备",
+          "icon": "https://favicon.im/www.shkfdq.com",
+          "enabled": true
+        },
+        {
+          "id": "site_11_taixiele",
+          "title": "泰西电气",
+          "href": "http://www.taixiele.cn/",
+          "description": "主要产品：小型断路器、漏电断路器、塑壳断路器、过欠压保护器、浪涌保护器、模数化插座、电磁式漏电断路器、分励脱扣器、隔离开关、交流接触器、配电箱、电表箱、控制与保护开关、双电源",
+          "icon": "https://favicon.im/www.taixiele.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_11_shztee",
+          "title": "上征电气",
+          "href": "https://www.shztee.com/",
+          "description": "主要产品：补偿器复合开关、交流接触器、小型断路器",
+          "icon": "https://favicon.im/www.shztee.com",
+          "enabled": true
+        },
+        {
           "id": "site_2_alst",
           "title": "阿尔斯通电气",
           "href": "https://www.alst.cn/",
