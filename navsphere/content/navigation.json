@@ -510,6 +510,62 @@
           "enabled": true
         },
         {
+          "id": "site_14_zbdq_elec",
+          "title": "正变电气",
+          "href": "http://www.zbdq.cc/",
+          "description": "主要产品：储能一体化设备、光伏并网柜并网箱、预制舱、光伏升压站、矿用一般型高低压开关柜，成套高低压设备等产品。，不锈钢电表箱，JP柜等各种配电箱、配电柜KYN28A-12、KYN61-40.5(Ⅱ)、KYN28A-24、XGN □ -12、GCK、GCS、MNS(Ⅱ) 等多种规格型号的高压成套设备柜架、壳体，并为客户设计生产各类非标柜体",
+          "icon": "https://favicon.im/www.zbdq.cc",
+          "enabled": true
+        },
+        {
+          "id": "site_15_chhaoli_elec",
+          "title": "豪力电气",
+          "href": "http://www.chhaoli.cn/",
+          "description": "主要产品：充气柜断路器,充气柜负荷开关、充气柜全套散件、VS1真空断路器/操作机构及全套配件、VS1侧装式真空断路器/操作机构及全套配件、VB1真空断路器/操作机构及全套配件、ZW32真空断路器/全套散件、ZW20真空断路器/全套散件、ZW7真空断路器/全套散件、FZW28负荷开关/全套散件、FZN12-负荷开关、FZN25负荷开关、GN19-12隔离开关、GN30-12隔离开关、ZW43真空断路器/全套散件、ZW8真空断路器/全套散件等等高压电气产品",
+          "icon": "https://favicon.im/www.chhaoli.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_16_cngbdl_elec",
+          "title": "固柏电力",
+          "href": "http://www.cngbdl.com/",
+          "description": "主要产品：35kV 及以下高压分离连接器、高压绝缘件、DFW 电缆分支箱、SF6 开关柜等",
+          "icon": "https://favicon.im/www.cngbdl.com",
+          "enabled": true
+        },
+        {
+          "id": "site_17_gooqal_elec",
+          "title": "古桥电力",
+          "href": "http://www.gooqal.com/",
+          "description": "主要产品：12kV及24kV高压充气柜操作机构、进线机构、出线机构、断路器机构、隔离机构、负荷开关、断路器开关、下接地开关等",
+          "icon": "https://favicon.im/www.gooqal.com",
+          "enabled": true
+        },
+        {
+          "id": "site_18_hfele_elec",
+          "title": "航锋电气",
+          "href": "http://www.hfele.com.cn/",
+          "description": "主要产品：充气柜、固体柜、环网柜、箱式变电站、电缆分支箱、高压真空断路器、负荷开关、隔离开关等高压元件，高低压成套设备等",
+          "icon": "https://favicon.im/www.hfele.com.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_19_johsuntech_elec",
+          "title": "昱勋电气",
+          "href": "http://www.johsuntech.com/",
+          "description": "主要产品：稳压器、变压器、不间断电源系统、逆变器和太阳能光伏系统等",
+          "icon": "https://favicon.im/www.johsuntech.com",
+          "enabled": true
+        },
+        {
+          "id": "site_20_cnguohe_elec",
+          "title": "国和电气",
+          "href": "http://www.cnguohe.com/",
+          "description": "主要产品：美/欧式箱变、不锈钢电缆分支箱、不锈钢干变式外壳、不锈钢农网柜，不锈钢电表箱、不锈钢计量柜、不锈钢端子箱、不锈钢动力柜、不锈钢计量箱、不锈钢防护箱、不锈钢桥架、不锈钢各种户内外高低压箱体及各类不锈钢非标箱和成套设备",
+          "icon": "https://favicon.im/www.cnguohe.com",
+          "enabled": true
+        },
+        {
           "id": "site_10_hongyan",
           "title": "鸿雁电气（Hongyan Electric）",
           "href": "https://www.hongyan.com.cn",
