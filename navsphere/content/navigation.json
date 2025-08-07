@@ -582,7 +582,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_ruico",
+          "title": "瑞科电缆附件",
+          "href": "https://www.ruico.cn",
+          "description": "主要产品：热缩电缆附件、冷缩电缆附件、热缩母线排套管、电力设备安全保护罩以及各种出口型电力橡胶带",
+          "icon": "https://favicon.im/www.ruico.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -591,7 +600,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_jingkaidl",
+          "title": "景凯电力",
+          "href": "http://www.jingkaidl.com",
+          "description": "主要产品：铜箔软连接、铜母线伸缩节、铜铝母线伸缩节、新能源汽车软连接、铜硬连接、铜编织线、电力金具等",
+          "icon": "https://favicon.im/www.jingkaidl.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -600,7 +618,64 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_guangyu",
+          "title": "广宇防爆",
+          "href": "http://www.guangyu.cc",
+          "description": "主要产品：煤矿用防爆风机、隧道风机、船用风机、工厂用防爆风机、专用设备配套用防爆风机等各种防爆通风制冷设备",
+          "icon": "https://favicon.im/www.guangyu.cc",
+          "enabled": true
+        },
+        {
+          "id": "site_2_chnxlm",
+          "title": "新黎明防爆",
+          "href": "http://www.chnxlm.com",
+          "description": "主要产品：厂用防爆灯、防爆无极灯、三防无极灯、防爆管件、防爆仪表、防爆风机、防爆电器、移动照明、固定照明等",
+          "icon": "https://favicon.im/www.chnxlm.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_dx-ex",
+          "title": "德轩电气",
+          "href": "http://www.dx-ex.com",
+          "description": "主要产品：成套电气类、矿山成套电气类、化工防爆成套电气类产品，产品线以电力电气开关柜，自动化控制柜、配电箱",
+          "icon": "https://favicon.im/www.dx-ex.com",
+          "enabled": true
+        },
+        {
+          "id": "site_4_cnnuobi",
+          "title": "诺比防爆",
+          "href": "http://www.cnnuobi.com",
+          "description": "主要产品：防爆灯具、防爆管件、配装元件、防爆防腐电器、防爆空调风机、防水防尘防腐电器类",
+          "icon": "https://favicon.im/www.cnnuobi.com",
+          "enabled": true
+        },
+        {
+          "id": "site_5_yulifb",
+          "title": "煜立防爆",
+          "href": "http://www.yulifb.com",
+          "description": "主要产品：防爆电器、防爆灯具、防爆管件、防爆安防",
+          "icon": "https://favicon.im/www.cnnuobi.com",
+          "enabled": true
+        },
+        {
+          "id": "site_6_onsunfb",
+          "title": "欧瑞克防爆",
+          "href": "http://www.onsunfb.com",
+          "description": "主要产品：防爆空调、防爆电器、防爆配电箱、防爆控制箱、防爆配电柜、防爆操作柱、防爆管件、防爆冰箱、防爆除湿机，防爆加湿机、防爆计算机、防爆风机、防爆灯具和移动照明等",
+          "icon": "https://favicon.im/www.onsunfb.com",
+          "enabled": true
+        },
+        {
+          "id": "site_7_yzdfb",
+          "title": "弋子达防爆",
+          "href": "http://www.yzdfb.com",
+          "description": "主要产品：防爆灯具，防爆管件，防爆仪表，防爆电器箱，防爆风机等",
+          "icon": "https://favicon.im/www.yzdfb.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
