@@ -684,7 +684,104 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_guoanele",
+          "title": "国安电气",
+          "href": "http://www.guoanele.com",
+          "description": "主要产品：12KV -110KV户外高压真空断路器、户内高压真空断路器、户内外真空负荷开关、SF6充气式断路器，户内外隔离开关、避雷器、跌落式熔断器等",
+          "icon": "https://favicon.im/www.guoanele.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_cndlx",
+          "title": "上德联合电气",
+          "href": "http://www.cndlx.com",
+          "description": "主要产品：高低压电器、仪器仪表、建筑电气、输配电及控制设备、电力变压器、稳压电源、电线电缆等",
+          "icon": "https://favicon.im/www.cndlx.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_cndlx",
+          "title": "精民电气",
+          "href": "http://xn--1qwg421eoyh.com/",
+          "description": "主要产品：户内外真空断路器、氧化锌避雷器、高压互感器、跌落式熔断器、高压隔离开关、高压负荷开关、户内外穿墙套管、真空接触器、高压元器件、电缆附件、电缆分支箱、环网充气柜等",
+          "icon": "https://favicon.im/www.xn--1qwg421eoyh.com",
+          "enabled": true
+        },
+        {
+          "id": "site_4_kbsydq",
+          "title": "库柏森源电气",
+          "href": "http://www.kbsydq.com/",
+          "description": "主要产品：户内真空断路器，户外真空断路器，高压负荷开关，高压隔离开关，高压接地开关，充气柜断路器及高低压开关柜、动力配电箱、输变电设备、箱式变电站，消防巡检柜",
+          "icon": "https://favicon.im/www.kbsydq.com",
+          "enabled": true
+        },
+        {
+          "id": "site_5_ourjust",
+          "title": "欧杰朗电气",
+          "href": "https://www.ourjust.com/",
+          "description": "主要产品：35KV以下电力变压器，箱变。环网柜、全绝缘全封闭充气环网柜（充气柜）、全绝缘固体环网柜（固体柜）、电缆分支箱、智能开闭所、高低压成套开关柜设备、综合配电箱（JP柜）、风力变电站、太阳能光伏、电能质量治理、电表箱及不锈钢、高压真空断路器、负苛开关、隔离开关、接地开关、避雷器、熔断器等元器件",
+          "icon": "https://favicon.im/www.ourjust.com",
+          "enabled": true
+        },
+        {
+          "id": "site_6_zjxuli",
+          "title": "旭力电气",
+          "href": "http://www.zjxuli.com/",
+          "description": "主要产品：户内高压真空断路器、户外高压真空断路器、智能真空断路器、永磁真空断路器、真空接触器、高压隔离开关、高压负荷开关、操作机构、跌落式熔断器、高压避雷器、户外高压SF6断路器、高低压输变电成套设备、变压器、箱式变电站",
+          "icon": "https://favicon.im/www.zjxuli.com",
+          "enabled": true
+        },
+        {
+          "id": "site_7_zjdzdl",
+          "title": "东舟电力",
+          "href": "http://www.zjdzdl.com/",
+          "description": "主要产品：线路防雷器材、复合绝缘子、避雷器、 真空断路器、隔离开关、熔断器",
+          "icon": "https://favicon.im/www.zjdzdl.com",
+          "enabled": true
+        },
+        {
+          "id": "site_8_zhu-jie",
+          "title": "祝捷电气",
+          "href": "http://www.zhu-jie.com/",
+          "description": "主要产品：户内（外）真空断路器，隔离开关，电压互感器，电流互感器，零序互感器，高压电力计量箱等",
+          "icon": "https://favicon.im/www.zhu-jie.com",
+          "enabled": true
+        },
+        {
+          "id": "site_9_leididianli",
+          "title": "雷狄电力",
+          "href": "http://www.leididianli.com/",
+          "description": "主要产品：户内外高压真空断路器及附件、户内外隔离开关、接地开关、负荷开关、跌落式熔断器、避雷器、高低压电器及配件",
+          "icon": "https://favicon.im/www.leididianli.com",
+          "enabled": true
+        },
+        {
+          "id": "site_10_csnb",
+          "title": "宇邦电气",
+          "href": "https://www.csnb.cn/",
+          "description": "主要产品：12kV～40.5kV的户内高压负荷开关、真空断路器、隔离开关、接地开关、高压熔断器及充气柜、固体柜和环保柜核心元件",
+          "icon": "https://favicon.im/www.csnb.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_11_sgdlkj",
+          "title": "苏高电气",
+          "href": "http://sgdlkj.com/",
+          "description": "主要产品：进、出口跌落式熔断器，避雷器，真空开关，隔离开关，负荷开关，绝缘子，配电箱，变压器，箱变等",
+          "icon": "https://favicon.im/www.sgdlkj.com",
+          "enabled": true
+        },
+        {
+          "id": "site_12_gydq",
+          "title": "国源电气",
+          "href": "http://www.gydq.cc/",
+          "description": "主要产品：户内外真空断路器，永磁真空断路器，真空负荷开关，隔离开关，智能控制器，零部件及成套设备",
+          "icon": "https://favicon.im/www.gydq.cc",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -693,7 +790,24 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_cnjbo",
+          "title": "建波电气",
+          "href": "http://www.cnjbo.com",
+          "description": "主要产品：框架断路器、塑壳断路器、微型断路器附件，分励脱扣器、欠电压脱扣器、辅助触头、报警触头、辅助报警触头、西门子3VA、电动操作机构、插入式装置、板后接线等",
+          "icon": "https://favicon.im/www.cnjbo.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_alst",
+          "title": "阿尔斯通电气",
+          "href": "https://www.alst.cn/",
+          "description": "主要产品：M1,M2,M3和合资品牌塑壳式断路器分励、欠压、辅助触头及报警触头等内部附件,DZ47、C60/C65、L7等小型断路器配套分励脱扣器、欠（过）压脱扣器，辅助触头，报警触头和电动操作机构",
+          "icon": "https://favicon.im/www.alst.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
