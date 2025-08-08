@@ -896,7 +896,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_bonding-tech",
+          "title": "重庆键合",
+          "href": "http://www.bonding-tech.com/",
+          "description": "主要产品：低压柜异型母排、刀开关、抽屉座导电排、套管及导电件、隔离开关及刀片座、电动大巴车导电排、以及其他各类导电件",
+          "icon": "https://favicon.im/www.bonding-tech.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -905,7 +914,32 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_honleworld",
+          "title": "弘乐集团",
+          "href": "http://www.honleworld.com/",
+          "description": "主要产品：稳压电源、逆变电源、UPS电源等电源产品，电力变压器、高(低)压开关柜、箱式变电站、户内外断路器、环网箱、动力配电箱等成套设备",
+          "icon": "https://favicon.im/www.honleworld.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_wbwbwb",
+          "title": "红旗温变",
+          "href": "http://www.wbwbwb.net/",
+          "description": "主要产品：液浸式电力变压器、干式变压器、非晶合金变压器、箱式变电站及高、低压成套开关设备",
+          "icon": "https://favicon.im/www.wbwbwb.net",
+          "enabled": true
+        },
+        {
+          "id": "site_3_smdqjt",
+          "title": "山门电气",
+          "href": "http://www.smdqjt.com/",
+          "description": "35KV级及以下的S10/S11/S13-M系列三相油浸电力变压器，S13-M.RL立体卷铁芯油浸式变压器S(B)H15/SC(B)H15系列非晶合金变压器,SCB10/SCB11/SG(H)B10系列干式电力变压器，KSG/KGSG/KL/QC810隔爆型矿用干式变压器，CSD船用变压器BK/BKC/JBK/SG/SBK控制变压器QZB自耦变压器等",
+          "icon": "https://favicon.im/www.smdqjt.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -914,7 +948,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_jieying",
+          "title": "捷鹰电器",
+          "href": "http://www.jieying.com/",
+          "description": "主要产品：电工电气、LED照明、集成吊顶",
+          "icon": "https://favicon.im/www.jieying.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -923,34 +966,126 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_chang-zheng",
+          "title": "长征工控",
+          "href": "http://www.chang-zheng.com/",
+          "description": "主要产品：CJ20，CJ40，CJT1 ，CJX2全系列的交流接触器；HD全系列的刀开关，CM1系列塑壳断路器，CJX2-D、F系列交流接触器；CZW1框架断路器",
+          "icon": "https://favicon.im/www.chang-zheng.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_contactors",
+          "title": "贵客电气",
+          "href": "http://www.contactors.com.cn/",
+          "description": "主要产品：CJX2(LC1-D,LC1-F),CJX1(3TB,3TH,3TF),GMC,SN,SC,SK,CN等交流接触器,及LR2,LR1,LRD,3UA,GTH,JR36,T系列热继电器,QCX2(LE1D),GMW系列磁力起动器,大小功率太阳能电池板,TND,TNS,TSD,DBW,SBW单三项伺服式稳压器,补偿式稳压器,挂壁式稳压,机床BK,JBK3,JBK5控制变压器,,单组输出，双路输出，三路输出，四组输出，及防水电源LPV系列开关电源,单相,三相(EPS)消防设备应急电源",
+          "icon": "https://favicon.im/www.contactors.com.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_3_chinahuako",
+          "title": "华控电器",
+          "href": "http://www.chinahuako.com/",
+          "description": "主要产品：塑壳式断路器、交流接触器、热过载继电器",
+          "icon": "https://favicon.im/www.chinahuako.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
       "id": "1754384474749",
-      "title": "互感器",
+      "title": "按钮信号灯",
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_nanzhou",
+          "title": "浙江南州",
+          "href": "http://www.nanzhou.com/",
+          "description": "主要产品：警示灯、警报器、连接器",
+          "icon": "https://favicon.im/www.nanzhou.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_chqisheng",
+          "title": "启晟电气",
+          "href": "https://www.chqisheng.com/",
+          "description": "主要产品：警示灯、电子报警器、交通材料",
+          "icon": "https://favicon.im/www.chqisheng.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_cnym",
+          "title": "亚明电器",
+          "href": "https://www.cnym.cn/",
+          "description": "主要产品：万能转换开关、组合开关、电焊机分头开关、电源切断开关、负载断路开关、电磁开关、倒顺开关",
+          "icon": "https://favicon.im/www.cnym.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_4_shajan",
+          "title": "上江电气",
+          "href": "http://www.shajan.cn/",
+          "description": "主要产品：LW系列转换开关和HZ系列组合开关",
+          "icon": "https://favicon.im/www.shajan.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
       "id": "1754384497104",
-      "title": "工业插头插座箱",
+      "title": "互感器",
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_nahusun",
+          "title": "南互电气",
+          "href": "http://www.nahusun.com/",
+          "description": "主要产品：10KV至110KV各种型号户内外电流、电压互感器；组合式互感器、电力计量箱",
+          "icon": "https://favicon.im/www.nahusun.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
       "id": "1754384506643",
-      "title": "电源电器",
+      "title": "工业插头插座箱",
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_chinacee",
+          "title": "西依依电气",
+          "href": "https://www.chinacee.com/",
+          "description": "主要产品：CEE工业插头、CEE工业插座、CEE工业连接器和组合式配电箱、交流接触器、直流接触器、热过载继电器、智能遥控开关等高低压电器",
+          "icon": "https://favicon.im/www.chinacee.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_sindr",
+          "title": "倍港电器",
+          "href": "http://www.sindr.cn/",
+          "description": "主要产品：防水配电箱、插座箱、电源箱、工业插头、工业插座、防水塑料盒、防水塑料箱",
+          "icon": "https://favicon.im/www.sindr.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_3_hanshengdq",
+          "title": "汉圣电气",
+          "href": "http://www.hanshengdq.com/",
+          "description": "主要产品：防水配电箱.接线盒、工业接插装置、塑料防水防尘接线盒、塑料密封盒、塑料防水配电箱、移动电源箱、手提插座箱",
+          "icon": "https://favicon.im/www.hanshengdq.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -959,7 +1094,40 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_123ele",
+          "title": "一二三电气",
+          "href": "http://www.123ele.com/",
+          "description": "主要产品：塑料外壳式断路器、万能式断路器、小型断路器、漏电断路器、控制与保护开关、双电源自动转换开关、隔离开关",
+          "icon": "https://favicon.im/www.123ele.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_cn-dongnan",
+          "title": "东南电器",
+          "href": "http://www.cn-dongnan.com/",
+          "description": "主要产品：切换电容器接触器、智能电容复合开关、动态无功补偿投切调节器与无功功率自动补偿控制器",
+          "icon": "https://favicon.im/www.cn-dongnan.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_cn-chmldq",
+          "title": "穆朗电气",
+          "href": "https://www.chmldq.com/",
+          "description": "主要产品：小型断路器、智能漏电断路器、塑壳断路器、万能式断路器、交流接触器、刀开关、双电源、CPS控制与保护开关、低压成套开关设备",
+          "icon": "https://favicon.im/www.chmldq.com",
+          "enabled": true
+        },
+        {
+          "id": "site_4_wzjldq",
+          "title": "温州佳利",
+          "href": "http://www.wzjldq.cn/",
+          "description": "主要产品：电力保护，电力控制继电器、微机保护装置，智能双电源转换开关，火灾报警控制器，控制与保护开关",
+          "icon": "https://favicon.im/www.wzjldq.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -968,43 +1136,84 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_chmw",
+          "title": "浙江民华",
+          "href": "http://www.chmw.cn/",
+          "description": "主要产品：开关电源，LED防水电源，导轨电源，大功率电源",
+          "icon": "https://favicon.im/www.chmw.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_2_ming-wei",
+          "title": "明威电气",
+          "href": "http://www.ming-wei.com.cn/",
+          "description": "主要产品：开关电源，LED防水电源，导轨电源，大功率电源",
+          "icon": "https://favicon.im/www.ming-wei.com.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
       "id": "1754384539884",
-      "title": "火灾监控探测器",
+      "title": "火灾监控探测器-智能照明控制系统",
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_zjbeifeng",
+          "title": "北丰电气",
+          "href": "http://www.zjbeifeng.com/",
+          "description": "主要产品：智能照明控制系统、电气火灾监控、消防设备电源监控系统，照明控制模块",
+          "icon": "https://favicon.im/www.zjbeifeng.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_gtaodq",
+          "title": "国涛电气",
+          "href": "http://www.gtaodq.com/",
+          "description": "主要产品：智能照明控制模块、消防应急疏散余压、多功能电力仪表、消防设备电源监控器、剩余电流式电气火灾监控器",
+          "icon": "https://favicon.im/www.gtaodq.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_cnpeiping",
+          "title": "北平电气",
+          "href": "http://www.cnpeiping.com/",
+          "description": "主要产品：智能照明控制系统、电气火灾监控、消防设备电源监控系统，照明控制模块",
+          "icon": "https://favicon.im/www.cnpeiping.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
       "id": "1754384550529",
-      "title": "消防电器",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1754384577790",
-      "title": "智能照明控制系统",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1754384597109",
       "title": "浪涌防雷",
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_cuaje",
+          "title": "创捷防雷电器",
+          "href": "https://www.cuaje.com/",
+          "description": "主要产品：避雷针、电源防雷箱、电源防雷模块（浪涌保护器）、信号防雷器、压敏电阻（防雷芯片）",
+          "icon": "https://favicon.im/www.cuaje.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_wrodz",
+          "title": "五荣电子",
+          "href": "https://www.wrodz.com/",
+          "description": "主要产品：避雷针、电源防雷箱、电源防雷模块（浪涌保护器）、信号防雷器、压敏电阻（防雷芯片）",
+          "icon": "https://favicon.im/www.wrodz.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1013,7 +1222,32 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_senkuo",
+          "title": "森阔机电",
+          "href": "https://www.lyskjd.com/",
+          "description": "主要产品：变频器、软启动器、软启动柜、变频控制柜以及高低压元器件和成套设备",
+          "icon": "https://favicon.im/www.lyskjd.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_weidun",
+          "title": "维盾电气",
+          "href": "http://weidun.cc/",
+          "description": "主要产品：磁通矢量变频器，VFD7000开环矢量变频器，VFD8000高性能闭环矢量变频器，VFD9000高性能通用变频器，VFD9200高性能永磁变频器；智能变频节电器，行业一体化变频器",
+          "icon": "https://favicon.im/www.weidun.cc",
+          "enabled": true
+        },
+        {
+          "id": "site_3_chyuje",
+          "title": "昱捷电气",
+          "href": "http://www.chyuje.com/",
+          "description": "主要产品：中文软启动器,在线式软启动器,软启动柜,在线式软启动柜及成套控制柜,双电源自动切换开关,控制与保护开关,塑壳断路器",
+          "icon": "https://favicon.im/www.chyuje.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1022,7 +1256,96 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_tqidec",
+          "title": "台泉电气",
+          "href": "http://www.tqidec.cn/",
+          "description": "主要产品：温控仪表，温度传感器，固态继电器，可控硅电压调整器，数显电测表（交直流电流电压、频率、功率、功率因数、相位表），可编程智能仪表、多功能（网络）电力监测仪",
+          "icon": "https://favicon.im/www.tqidec.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_2_shlangyu",
+          "title": "朗宇电气",
+          "href": "http://www.shlangyu.com.cn/",
+          "description": "主要产品：控制与保护开关、多用户电表、双电源切换开关系列、过欠压保护开关、电气防火限流式保护器",
+          "icon": "https://favicon.im/www.shlangyu.com.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_3_halula",
+          "title": "哈陆拉电气",
+          "href": "http://www.halula.cn/",
+          "description": "主要产品：在线测温系统、电力自动化保护系统装置系列、开关柜智能操控装置系列、开关状态模拟显示仪、微机消谐装置系列、智能温湿度控制器系列、故障指示器系列、多功能电力监测仪表系列",
+          "icon": "https://favicon.im/www.halula.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_4_cnsxzd",
+          "title": "陕西中电",
+          "href": "http://cnsxzd.com/",
+          "description": "主要产品：数显电力仪表、微机测控保护装置、智能除湿装置、导轨式电能表、开关柜智能操控装置、智能温湿度控制器、无线测温装置",
+          "icon": "https://favicon.im/www.cnsxzd.com",
+          "enabled": true
+        },
+        {
+          "id": "site_5_sanaodq",
+          "title": "三奥电气",
+          "href": "http://sanaodq.com/",
+          "description": "主要产品：微机综合保护装置，智能电力仪表、电流电压表( 指针式)、低压互感器、智能操控装置、智能除湿装置、凝露/ 温湿度控制器、高压带电显示器、故障指示器、户内电磁锁、柜内照明灯、铝合金加热器、硅胶加热器",
+          "icon": "https://favicon.im/www.sanaodq.com",
+          "enabled": true
+        },
+        {
+          "id": "site_6_chwsd",
+          "title": "实德电气",
+          "href": "http://www.chwsd.com/",
+          "description": "主要产品：开关状态指示仪、开关柜智能操控装置、智能数显仪表、多功能电力仪表、智能液晶仪表、温湿度控制器、加热板、高压带电显示器、户内故障指示器、户内电磁锁、干式变压器电脑温控箱、自愈式并联电容器、智能电容器、低压抗谐波智能电力电容器、智能电容用控制器、无功功率自动补偿控制器、电容器投切复合开关、低压串联电抗器、切换电容器接触器",
+          "icon": "https://favicon.im/www.chwsd.com",
+          "enabled": true
+        },
+        {
+          "id": "site_7_cnshenneng",
+          "title": "沈能电力",
+          "href": "http://www.cnshenneng.com/",
+          "description": "主要产品：谐波保护器、多功能电力仪表、数显电力仪表、电动机保护器、自复式过欠压保护器、电子限荷自动控制器、微机保护装置、微机消谐装置、开关柜智能操控装置、开关状态指示仪、电气接点在线测温、温湿度控制器、开关柜智能除湿装置、电流互感器过电压保护器、导轨式电能表、电子式电能表、智能照明控制模块、电气火灾监控装置、消防电源监控装置、信号隔离器、电量变送器、双电源转换开关、控制与保护开关、浪涌保护器、变频器、故障指示器、高压带电显示器、户内电磁锁、铝合金加热器、自动重合闸电源保护器",
+          "icon": "https://favicon.im/www.cnshenneng.com",
+          "enabled": true
+        },
+        {
+          "id": "site_8_cnhxdz",
+          "title": "海特电气",
+          "href": "http://www.cnhxdz.com/",
+          "description": "主要产品：数显电测仪表、数显可编程智能仪表、多功能电力仪表、网络电力仪表及电子式电能表全系列，微机综合保护装置，电动机保护器，智能除湿装置，导轨式电能表，电气火灾监控探测器，开关状态指示仪，智能操控装置",
+          "icon": "https://favicon.im/www.cnhxdz.com",
+          "enabled": true
+        },
+        {
+          "id": "site_9_cnxingming",
+          "title": "星明智能电气",
+          "href": "http://www.cnxingming.com/",
+          "description": "主要产品：APF有源滤波器，三相负荷不平衡调节装置，剩余电流动作断路器、电子式电能表、复费率电能表、IC卡预付费电能表、多功能电能表、数显仪表、智能电气",
+          "icon": "https://favicon.im/www.cnxingming.com",
+          "enabled": true
+        },
+        {
+          "id": "site_10_zjtaizhou",
+          "title": "太洲电气",
+          "href": "http://zjtaizhou.cn/",
+          "description": "主要产品：温控仪,电流电压表,高速器,热电偶",
+          "icon": "https://favicon.im/www.zjtaizhou.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_11_chtk",
+          "title": "天康电子",
+          "href": "http://chtk.cn/",
+          "description": "主要产品：数显电力仪表、温湿度控制器、微机综合保护装置、开关状态指示仪、电量变送器、小型隔离模块、导轨电能表、智能照明模块及电气火灾监控系统",
+          "icon": "https://favicon.im/www.chtk.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
