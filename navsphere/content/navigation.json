@@ -22,6 +22,14 @@
           "enabled": true
         },
         {
+          "id": "senkuo-01",
+          "title": "森阔软启动-变频器",
+          "href": "https://www.lyskjd.com",
+          "description": "临沂森阔机电有限公司是专业的变频器和软启动器制造商,提供定制化解决方案,满足机械制造、电力、矿业、建筑、石油化工等多个行业的应用需求。变频器软启动柜厂家主营:高品质在线软启动器,旁路软起动器,在线软启动柜,矢量变频器,变频控制柜,高低压元器件及成套设备,服务全球客户。欢迎全球代理商、分销商、零售商以及其他合作伙伴加入,共同发展互利共赢的商业关系。",
+          "icon": "https://favicon.im/www.lyskjd.com",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "阿里巴巴",
           "href": "https://sovrn.co/1b4yyqm",
@@ -656,7 +664,7 @@
           "title": "煜立防爆",
           "href": "http://www.yulifb.com",
           "description": "主要产品：防爆电器、防爆灯具、防爆管件、防爆安防",
-          "icon": "https://favicon.im/www.cnnuobi.com",
+          "icon": "https://favicon.im/www.yulifb.com",
           "enabled": true
         },
         {
