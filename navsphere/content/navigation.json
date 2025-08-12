@@ -1354,7 +1354,32 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_dnua",
+          "title": "东华金具",
+          "href": "http://dnua.com/",
+          "description": "主要产品：铜、铜铝、铝类电力金具、接线端头、接头",
+          "icon": "https://favicon.im/www.dnua.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_nanzhou",
+          "title": "南洲金具",
+          "href": "http://www.nanzhou.com/",
+          "description": "主要产品：尼龙端头、欧式端头、冷压端头、铜管端子、电缆金具裸端头、预绝缘端头(易进)",
+          "icon": "https://favicon.im/www.nanzhou.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_maikasen",
+          "title": "麦卡森电气",
+          "href": "http://www.maikasen.cn/",
+          "description": "主要产品：冷压端子、接线端头、防水接头、扎带、连接器，压接工具",
+          "icon": "https://favicon.im/www.maikasen.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1363,7 +1388,32 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_yueding",
+          "title": "跃鼎电器",
+          "href": "http://www.4000210577.com/",
+          "description": "主要产品：插拔式端子台（插头和插座）、电流电压端子、轨道式接线端子、重载矩形连接器、欧式连接器",
+          "icon": "https://favicon.im/www.4000210577.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_cnzhongde",
+          "title": "中地电气",
+          "href": "http://cnzhongde.com/",
+          "description": "主要产品：UK系列通用接线端子、SAK系列通用接线端子、TB系列通用接线端子、TBC系列通用接线端子、TBR系列通用接线端子、TC固定式大电流接线端子、TBD接线端子、JF5系列封闭式接线端子、JH10系列组合端子、IN系列欧式接线端子",
+          "icon": "https://favicon.im/www.cnzhongde.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_tangchendq",
+          "title": "汤臣电气",
+          "href": "http://tangchendq.com/",
+          "description": "主要产品：开关端子、多用途接线端子、TB系列通用接线端子、TBC系列通用接线端子、TBR系列通用接线端子、TC固定式大电流接线端子、TBD接线端子、JF5系列封闭式接线端子、JH10系列组合端子、IN系列欧式接线端子",
+          "icon": "https://favicon.im/www.tangchendq.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1372,7 +1422,24 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_chinahugong",
+          "title": "上海沪工电气",
+          "href": "https://www.chinahugong.com/",
+          "description": "主要产品：高压熔断器、低压熔断器、快熔熔断器、圆柱形熔断器、方形熔断器、熔断器底座、熔断器式隔离开关、光伏熔断器、新能源用熔断器",
+          "icon": "https://favicon.im/www.chinahugong.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_slfc",
+          "title": "新力熔断器",
+          "href": "http://slfc.cn/",
+          "description": "主要产品：储能系统专用直流熔断器、储能系统专用直流连接器、电动汽车维修开关连接器、电动汽车充电桩等保护用直流快速熔断器、光伏系统保护用直流熔断器、电力类保护用熔断器",
+          "icon": "https://favicon.im/www.slfc.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1381,7 +1448,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_chrx",
+          "title": "容鑫电子",
+          "href": "http://chrx.cn/",
+          "description": "主要产品：CBB60系列交流电动机电容器、CBB60型交流洗衣机电容器、CBB61微型电机、CJ40,CJ41,CJ48交流金属化电容器系列、风扇用电容器系列、CD60系列电动机启动电容器、CBB65空调压缩机电容系列、CBB80灯具用电容器系列、CD13铝电解电容器系列",
+          "icon": "https://favicon.im/www.chrx.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1390,7 +1466,24 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_chaorui",
+          "title": "朝瑞电气",
+          "href": "http://chaorui.cn/",
+          "description": "主要产品：10KV、35KV户内外高压真空断路器以及高压成套设备",
+          "icon": "https://favicon.im/www.chaorui.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_2_shxrdq",
+          "title": "兴熔电气",
+          "href": "http://www.shxrdq.com/",
+          "description": "主要产品：高压限流熔断器、穿墙套管、负荷隔离开关",
+          "icon": "https://favicon.im/www.shxrdq.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1399,7 +1492,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_dszdh",
+          "title": "德盛电气",
+          "href": "https://www.dszdh.com/",
+          "description": "主要产品：微动开关自动装配机、船型开关自动装配机、墙壁开关自动装配机、二孔插座自动生产线、五孔插座自动装配机、三孔/六孔插座自动装配机、五孔插座自动生产线",
+          "icon": "https://favicon.im/www.dszdh.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1408,7 +1510,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_olk",
+          "title": "欧雷凯气动",
+          "href": "http://olk.com.cn/",
+          "description": "主要产品：电磁阀、气动阀、多系列气动执行元件，控制元件，辅助元件，气动机械及气动成套系统",
+          "icon": "https://favicon.im/www.olk.com.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -1417,7 +1528,40 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1_hygdzj",
+          "title": "汇云科技",
+          "href": "https://hygdzj.com/",
+          "description": "主要产品：国标充电枪及配件、欧标充电枪及配件、美标充电枪及配件",
+          "icon": "https://favicon.im/www.hygdzj.com",
+          "enabled": true
+        },
+        {
+          "id": "site_2_wbang",
+          "title": "王邦电器",
+          "href": "http://wbang.com/",
+          "description": "主要产品：高中档墙壁开关、插座、断路器",
+          "icon": "https://favicon.im/www.wbang.com",
+          "enabled": true
+        },
+        {
+          "id": "site_3_zhongjian",
+          "title": "中建电气",
+          "href": "http://www.zhongjian.cn/",
+          "description": "主要产品：母线槽、电缆桥架、高低压成套电气、动力柜、配电箱、计量箱、消防控制箱、风机控制箱、水泵控制箱、应急电源、住宅智能化集控箱",
+          "icon": "https://favicon.im/www.zhongjian.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_4_futina",
+          "title": "福田电器",
+          "href": "https://www.futina.com/",
+          "description": "主要产品：开关插座、照明灯具、电工附件",
+          "icon": "https://favicon.im/www.futina.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
