@@ -100,6 +100,14 @@
           "description": "中国知名的自营式电商企业，涵盖 3C 数码、家电、日用百货等多种商品销售，同时发展出物流、金融等业务板块，是国内电商领域的重要参与者",
           "icon": "https://favicon.im/www.jd.com",
           "enabled": true
+        },
+        {
+          "id": "1755508502385",
+          "title": "电缆选型计算器",
+          "href": "https://cable-calculator.nav8.top",
+          "description": "免费的在线电缆选型计算器，符合NEC 2023和IEC 60364标准。计算适当的电缆截面积、载流量、铜/铝电缆的电压降、电机电路等。包括AWG到mm²的转换功能。",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
