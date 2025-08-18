@@ -106,7 +106,7 @@
           "title": "电缆选型计算器",
           "href": "https://cable-calculator.nav8.top",
           "description": "免费的在线电缆选型计算器，符合NEC 2023和IEC 60364标准。计算适当的电缆截面积、载流量、铜/铝电缆的电压降、电机电路等。包括AWG到mm²的转换功能。",
-          "icon": "",
+          "icon": "/assets/img_1755509666484.png",
           "enabled": true
         }
       ],
